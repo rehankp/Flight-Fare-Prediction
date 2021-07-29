@@ -1,2 +1,2 @@
 # Flight-Fare-Prediction
-_The_ [web-app](https://www.google.com) _is hosted with heroku._
+_The_ [web-app](https://flightfarepredictor-streamlit.herokuapp.com/) _is hosted with heroku._
